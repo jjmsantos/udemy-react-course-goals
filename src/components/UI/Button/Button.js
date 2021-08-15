@@ -1,4 +1,5 @@
-import React from "react";
+//import React from "react";
+//no JSX in this file so importing react is not needed(even though it is not needed in general)
 import styled from "styled-components";
 // import "./Button.css";
 
